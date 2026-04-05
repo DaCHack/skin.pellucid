@@ -120,8 +120,8 @@
         <textcolor>textActive</textcolor>
         <focusedcolor>black</focusedcolor>
         <disabledcolor>textDisabled</disabledcolor>
-        <spinwidth>30</spinwidth>
-        <spinheight>30</spinheight>
+        <spinwidth>60</spinwidth>
+        <spinheight>60</spinheight>
         <texturefocus>colors/white.png</texturefocus>
         <texturenofocus></texturenofocus>
         <textureup>UIControls/arrow-up-nf.png</textureup>
